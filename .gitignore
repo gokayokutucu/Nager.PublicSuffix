@@ -306,3 +306,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+src/Nager.PublicSuffix.sln
+src/Nager.PublicSuffix.ConsoleApp/
+.vscode/launch.json
+.vscode/tasks.json
+src/Nager.PublicSuffix.sln
+src/Nager.PublicSuffix.sln
